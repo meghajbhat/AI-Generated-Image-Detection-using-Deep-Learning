@@ -211,14 +211,9 @@ git lfs pull
 
 ## 📜 Citation
 
-```bibtex
-@article{patra2024aigen,
-  title={AI-Generated Image Detection using Deep Learning},
-  author={Patra, Hrishita and Bobba, Jahnavi and K, Keerthi and Bhat, Megha and Narayan, Surabhi},
-  journal={Capstone Project, PES University},
-  year={2024}
-}
-```
+* Megha Bhat - PES1UG22CS344
+* Jahnavi Bobba - PES1UG22CS246
+* Hrishita Patra - PES1UG22CS241
 
 ---
 
