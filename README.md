@@ -240,8 +240,3 @@ git lfs pull
 
 Found a bug or have suggestions? Open an issue or pull request. Help improve AI-based media verification!
 
----
-
-## 💫 License
-
-MIT License. See [LICENSE](./LICENSE) for details.
