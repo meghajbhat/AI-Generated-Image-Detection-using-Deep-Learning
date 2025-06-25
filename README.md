@@ -214,6 +214,7 @@ git lfs pull
 * Megha Bhat - PES1UG22CS344
 * Jahnavi Bobba - PES1UG22CS246
 * Hrishita Patra - PES1UG22CS241
+* Keerthi K - PES1UG22CS284
 
 ---
 
